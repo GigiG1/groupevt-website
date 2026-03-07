@@ -1,0 +1,17 @@
+Thumbs.db
+.DS_Store
+*.bak
+tooplate_style.css
+about.html
+services.html
+solutions.html
+images/tooplate_banner*
+images/tooplate_button*
+images/tooplate_content*
+images/tooplate_footer*
+images/tooplate_header*
+images/tooplate_home*
+images/tooplate_hor*
+images/tooplate_list*
+images/tooplate_menu*
+images/tooplate_vertical*
